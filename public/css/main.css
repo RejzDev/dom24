@@ -1,0 +1,35 @@
+.bg-menu{
+    background-color: #f8f8f8;
+
+}
+
+.nav-item-menu{
+    text-align: right;
+}
+
+.user-header{
+    background-color: #b1b1b1;
+}
+
+.img-right {
+    float: right;
+    margin: 0 0 15px 15px;
+}
+
+.form-row-remove-btn{
+    outline: 0;
+}
+
+
+@media screen and (max-width: 767px) {
+    .img-right {
+        display: block;
+        float: none;
+        margin: 0 auto;
+
+
+    }
+
+}
+
+
